@@ -1,0 +1,35 @@
+/* MAIN CSS FILE FOR PROJECT */
+
+svg {
+    border: 1px solid black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+svg .axis g text {
+    font-size: 14px;
+    text-align: justify;
+}
+
+.tick line {
+    visibility: hidden;
+}
+
+#chart1 {
+    background: white;
+}
+
+#chart2 {
+    background: white;
+}
+
+#chart3 {
+    background: white;
+}
+
+#chart4 {
+    background: white;
+}
+
+#chart5 {
+    background: white;
+}
